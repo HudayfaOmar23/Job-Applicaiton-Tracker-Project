@@ -1,0 +1,7 @@
+{
+  "editor.quickSuggestions": { "other": "off", "comments": "off", "strings": "off" },
+  "editor.acceptSuggestionOnTab": false,
+  "editor.autoClosingBrackets": "never",
+  "editor.autoClosingQuotes": "never",
+  "editor.parameterHints.enabled": false
+}
